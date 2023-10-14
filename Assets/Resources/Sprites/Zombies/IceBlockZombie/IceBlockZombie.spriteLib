@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: IceComplete
+      m_Hash: 882212866
+      m_Sprite: {fileID: 45065877955973091, guid: 4ce5ef6ee1169cf4f99aa85e4ff3acde,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 45065877955973091, guid: 4ce5ef6ee1169cf4f99aa85e4ff3acde,
+        type: 3}
+    - m_Name: IceIncomplete1
+      m_Hash: -1740168468
+      m_Sprite: {fileID: 2254331352984868588, guid: bf003f5b54d503f468af87179837c0f3,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2254331352984868588, guid: bf003f5b54d503f468af87179837c0f3,
+        type: 3}
+    - m_Name: IceIncomplete2
+      m_Hash: 21918550
+      m_Sprite: {fileID: -4367697539067952926, guid: f86cfde94f9ffad4fa87c65dd094bec4,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4367697539067952926, guid: f86cfde94f9ffad4fa87c65dd094bec4,
+        type: 3}
+    - m_Name: NoIce
+      m_Hash: 1323822492
+      m_Sprite: {fileID: 945995276961119624, guid: 0e66867808871084db906e0275bf41cc,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 945995276961119624, guid: 0e66867808871084db906e0275bf41cc,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: Arm
+    m_Hash: -1609353100
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Complete
+      m_Hash: -1156468107
+      m_Sprite: {fileID: -7481300703656479795, guid: 0e66867808871084db906e0275bf41cc,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7481300703656479795, guid: 0e66867808871084db906e0275bf41cc,
+        type: 3}
+    - m_Name: Incomplete
+      m_Hash: 851513696
+      m_Sprite: {fileID: 3402508823575100206, guid: e342f376be280fc4fae9422f5d9f9a27,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3402508823575100206, guid: e342f376be280fc4fae9422f5d9f9a27,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 

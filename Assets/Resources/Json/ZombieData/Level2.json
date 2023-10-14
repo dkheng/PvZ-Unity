@@ -1,0 +1,130 @@
+{
+  "info": [
+    {
+      "deltaTime": 50,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 40,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 40,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 40,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 40,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 2,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 30,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 30,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 20,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 2,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 30,
+      "isWave": true,
+      "isFinalWave": false,
+      "number": 5,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 30,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 2,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 10,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 20,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 3,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 20,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 10,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 10,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 10,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 1,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 10,
+      "isWave": true,
+      "isFinalWave": true,
+      "number": 4,
+      "zombie": "ChineseZombie"
+    },
+    {
+      "deltaTime": 10,
+      "isWave": false,
+      "isFinalWave": false,
+      "number": 3,
+      "zombie": "ChineseZombie"
+    }
+  ]
+}

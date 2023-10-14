@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plant
+  - AttackLine
+  - GameOverLine
+  - PlantGrid
+  - Zombie
+  - PlantShadow
+  - BulletDisappearLine
+  - Pea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sun
+  - Zombie
+  - Plant
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BottomUI
+    uniqueID: 3654667365
+    locked: 0
+  - name: Shadow
+    uniqueID: 1982701193
+    locked: 0
+  - name: Plant-5
+    uniqueID: 3554677001
+    locked: 0
+  - name: Zombie-5
+    uniqueID: 2494942629
+    locked: 0
+  - name: Plant-4
+    uniqueID: 4067840681
+    locked: 0
+  - name: Zombie-4
+    uniqueID: 2898601253
+    locked: 0
+  - name: Plant-3
+    uniqueID: 2831595235
+    locked: 0
+  - name: Zombie-3
+    uniqueID: 2714010625
+    locked: 0
+  - name: Plant-2
+    uniqueID: 3566406171
+    locked: 0
+  - name: Zombie-2
+    uniqueID: 303376661
+    locked: 0
+  - name: Plant-1
+    uniqueID: 3907985171
+    locked: 0
+  - name: Zombie-1
+    uniqueID: 1834825079
+    locked: 0
+  - name: Plant-0
+    uniqueID: 535217623
+    locked: 0
+  - name: Zombie-0
+    uniqueID: 2747776981
+    locked: 0
+  - name: PlantBullet
+    uniqueID: 398298351
+    locked: 0
+  - name: MiddleUI
+    uniqueID: 3510464293
+    locked: 0
+  - name: Sun
+    uniqueID: 3002388491
+    locked: 0
+  - name: TopUI
+    uniqueID: 1777834707
+    locked: 0
